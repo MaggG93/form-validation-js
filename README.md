@@ -1,2 +1,2 @@
 # form-validation-js
-A simple form with validation in javascript
+A simple form validation in javascript
